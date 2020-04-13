@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="13px" viewBox="0 0 10 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Delete</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(0.704225, 0.812500)" stroke="#D0021B">
+            <rect id="Rectangle-path" x="0" y="1.48958333" width="8.5915493" height="1.625"></rect>
+            <path d="M7.88732394,3.11458333 L7.88732394,10.9995265 C7.88732394,11.2248106 7.72769953,11.375 7.48826291,11.375 L1.10328638,11.375 C0.863849765,11.375 0.704225352,11.2248106 0.704225352,10.9995265 L0.704225352,3.11458333" id="Shape"></path>
+            <polyline id="Shape" points="0.704225352 1.625 2.69953052 0 5.89201878 0 7.88732394 1.625"></polyline>
+            <path d="M2.25352113,5.41666667 L6.33802817,5.41666667" id="Shape"></path>
+        </g>
+    </g>
+</svg>

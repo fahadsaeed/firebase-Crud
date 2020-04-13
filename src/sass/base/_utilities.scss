@@ -1,0 +1,74 @@
+#lda-user-list-widget {
+
+  .white-text {
+    color: $white;
+  }
+
+  .primary-text {
+    color: $primary;
+  }
+
+  .danger-text {
+    color: $danger;
+  }
+
+  .warning-text {
+    color: $warning;
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .full-width {
+    width: 100%;
+  }
+
+  .full-height {
+    height: 100vh;
+  }
+
+  .uppercase {
+    text-transform: uppercase;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .primary-link {
+    color: $primary;
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+  }
+
+  .border {
+    border: 1px solid $border;
+  }
+
+  .border-bottom {
+    border-bottom: 1px solid $border;
+  }
+
+  .border-top {
+    border-top: 1px solid $border;
+  }
+
+  .bg-white {
+    background-color: $white;
+  }
+
+  .shadow {
+    box-shadow: $box-shadow;
+  }
+
+  .hidden {
+    display: none !important;
+  }
+
+  .border-radius {
+    border-radius: 5px;
+  }
+
+}

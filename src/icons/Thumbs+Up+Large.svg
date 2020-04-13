@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="106px" viewBox="0 0 111 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Component/Popup/Create" transform="translate(-237.000000, -26.000000)" stroke="#3AAF50" stroke-width="7">
+            <g id="Content" transform="translate(33.000000, 30.000000)">
+                <g id="Icon" transform="translate(207.000000, 0.000000)">
+                    <path d="M20.5,88.2 L20.5,42.7 L23.3,42.7 C28.2,42.7 33.1,39.9 35.2,35.7 L37.3,31.5 C40.1,27.3 41.5,22.4 41.5,16.8 L41.5,7 C41.5,2.8 44.3,0 48.5,0 C56.2,0 62.5,6.3 62.5,14 L62.5,28 C62.5,35.7 68.8,42 76.5,42 L80,42 L94,42 C99.6,42 104.5,46.9 104.5,52.5 L104.5,79.8 C104.5,82.6 103.1,85.4 101.7,87.5 L94,95.2 C91.9,97.3 89.1,98 86.3,98 L42.9,98 C39.4,98 36.6,97.3 33.8,95.2 L20.5,88.2 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="0.5" y="43" width="21" height="55"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

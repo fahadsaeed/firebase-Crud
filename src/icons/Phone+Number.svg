@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="78px" viewBox="0 0 45 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Phone Number</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Phone-Number" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon" transform="translate(3.000000, 3.000000)" stroke="#CED0DA">
+            <path d="M36.5625,72 L2.4375,72 C0.975,72 0,71.04 0,69.6 L0,2.4 C0,0.96 0.975,0 2.4375,0 L36.5625,0 C38.025,0 39,0.96 39,2.4 L39,69.6 C39,71.04 38.025,72 36.5625,72 Z" id="Shape"></path>
+            <path d="M0,10 L39,10" id="Shape"></path>
+            <path d="M0,58 L39,58" id="Shape"></path>
+            <circle id="Oval" cx="21.5" cy="67.5" r="2.5"></circle>
+        </g>
+    </g>
+</svg>

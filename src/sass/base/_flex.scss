@@ -1,0 +1,77 @@
+#lda-user-list-widget {
+  .flex {
+    display: flex;
+  }
+
+  .space-evenly {
+    justify-content: space-evenly;
+  }
+
+  .align-center {
+    align-items: center;
+  }
+
+  .flex-grow {
+    flex-grow: 1;
+  }
+
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .align-self-center {
+    align-self: center;
+  }
+
+  .flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .flex-s-center {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .flex-se-center {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .flex-sb-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .flex-end {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  @include responsive(phone) {
+    .xs-order-inverse {
+      order: 1;
+    }
+
+    .xs-flex-col {
+      flex-direction: column;
+    }
+
+    .xs-hidden {
+      display: none;
+    }
+
+    .xs-full-width {
+      width: 100% !important;
+    }
+  }
+}

@@ -1,0 +1,108 @@
+#lda-user-list-widget {
+  .primary-default-btn,
+  .primary-success-btn,
+  .primary-danger-btn {
+    color: $white;
+    border: none;
+    line-height: 30px;
+    -webkit-border-radius: 2px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    transition: all .5s;
+    .svg-icon {
+      margin-right: $half-space;
+    }
+    &:hover {
+      box-shadow: $btn-shadow;
+    }
+  }
+
+  .secondary-default-btn,
+  .secondary-success-btn,
+  .secondary-danger-btn {
+    border: none;
+    line-height: 25px;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 5px 20px;
+    &:hover {
+      box-shadow: $btn-shadow;
+    }
+  }
+
+  .tertiary-default-btn,
+  .tertiary-success-btn,
+  .tertiary-danger-btn {
+    background-color: transparent;
+    border: 1px solid $danger;
+    line-height: 25px;
+    color: $danger;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 5px 20px;
+    &:hover {
+      box-shadow: $btn-shadow;
+    }
+  }
+
+  .primary-success-btn,
+  .secondary-success-btn {
+    background-color: $success;
+    &:hover {
+      background-color: $success-hover;
+    }
+  }
+
+  .primary-danger-btn,
+  .secondary-danger-btn {
+    background-color: $danger;
+    &:hover {
+      background-color: $danger-hover;
+    }
+  }
+
+  .primary-default-btn,
+  .secondary-default-btn {
+    background-color: #e9edf1;
+    color: $default;
+    &:hover {
+      background-color: #e5eaef;
+    }
+  }
+
+  .tertiary-default-btn {
+    border: 1px solid $default;
+    color: $default;
+  }
+
+  .tertiary-success-btn {
+    border: 1px solid $success;
+    color: $success;
+  }
+
+  .tertiary-danger-btn {
+    border: 1px solid $danger;
+    color: $danger;
+  }
+
+  .icon-btn {
+    background-color: transparent;
+    border: none;
+    width: 35px;
+    height: 35px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    i {
+      color: $black;
+      font-size: 20px;
+    }
+  }
+}

@@ -1,0 +1,43 @@
+#lda-user-list-widget {
+  .m {
+    margin: $space;
+  }
+  .m-y {
+    margin-top: $space;
+    margin-bottom: $space;
+  }
+  .m-x {
+    margin-left: $space;
+    margin-right: $space;
+  }
+  .m-t {
+    margin-top: $space;
+  }
+  .m-b {
+    margin-bottom: $space;
+  }
+  .m-l {
+    margin-left: $space;
+  }
+  .m-r {
+    margin-right: $space;
+  }
+
+  .m-r-h {
+    margin-right: $half-space;
+  }
+
+  .m-l-h {
+    margin-left: $half-space;
+  }
+
+  @include responsive(phone) {
+    .xs-m-t {
+      margin-top: $space;
+    }
+
+    .xs-m-b {
+      margin-bottom: $space;
+    }
+  }
+}

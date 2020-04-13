@@ -1,0 +1,139 @@
+#lda-user-list-widget {
+
+  .main-container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .table-container {
+    .table-header {
+      margin-bottom: 25px;
+      .search-form {
+        width: 350px;
+        position: relative;
+        .svg-icon {
+          position: absolute;
+          left: 10px;
+          top: 50%;
+          transform: translateY(-50%);
+        }
+        .input-field {
+          padding-left: 35px;
+          border-color: $search;
+        }
+      }
+    }
+    .table-responsive {
+      table {
+        width: 100%;
+        max-width: 100%;
+        border-collapse: collapse;
+        thead {
+          tr {
+            th {
+              border-bottom: 1px solid $table-border;
+              padding: 5px 15px;
+              color: $black;
+            }
+          }
+        }
+        tbody {
+          td.message {
+            text-align: center !important;
+            padding: 60px 15px;
+            font-size: 18px;
+            font-weight: bold;
+            color: $black;
+          }
+        }
+        tr {
+          td, th {
+            text-align: left;
+            padding: 10px 15px;
+            color: $table-text-color;
+            &:last-child {
+              text-align: right;
+              padding-right: 40px;
+            }
+          }
+          &:nth-child(even) {
+            background-color: $table-even-bg-color;
+            color: $table-even-text-color;
+          }
+          .action {
+            position: relative;
+          }
+        }
+      }
+    }
+
+  }
+
+  .user-form {
+    .group-heading {
+      padding-bottom: 5px;
+      h3 {
+        font-size: 22px;
+      }
+    }
+    .form-container {
+      max-width: 900px;
+    }
+    .form-group {
+      position: relative;
+      margin: 15px 0;
+      width: 100%;
+      max-width: 350px;
+    }
+  }
+
+  .edit-form-btn {
+    display: none;
+  }
+
+  .edit-form {
+    .default-from-btn {
+      display: none;
+    }
+    .edit-form-btn {
+      display: initial;
+    }
+  }
+
+  @include responsive(phone) {
+    .main-container {
+      width: 100%;
+    }
+    .app-name{
+      text-align: center;
+      padding: 0;
+    }
+    .table-container {
+      .table-header {
+        margin-bottom: 0;
+      }
+      .table-responsive {
+        display: block;
+        width: 100%;
+        overflow: hidden;
+        overflow-x: auto;
+        table{
+          font-size: 14px;
+          thead, tbody{
+            tr{
+              th, td{
+                padding: 5px 10px;
+                &:last-child {
+                  text-align: right;
+                  padding-right: 15px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+}

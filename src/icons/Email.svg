@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="79px" viewBox="0 0 71 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Email</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon" transform="translate(3.000000, 7.000000)" stroke="#CED0DA">
+            <path d="M39.5,33 C39.5,37.8888889 36.4666667,41 33,41 C29.5333333,41 26.5,38.3333333 26.5,33 C26.5,28.1111111 29.5333333,25 33,25 C36.4666667,25 39.5,28.1111111 39.5,33 Z" id="Shape"></path>
+            <circle id="Oval" cx="33" cy="32.5" r="32.5"></circle>
+            <path d="M41.654021,50.0706251 C37.7494685,51.8070625 33.4110769,52.6752812 28.2050069,51.3729532 C20.8297412,49.6365158 15.1898321,43.9930942 13.8883146,36.6132353 C11.2852796,23.1558455 22.1312587,11.4348931 35.5802727,13.1713305 C45.5585734,14.4736585 52.5,23.5899548 52.5,33.5744699 L52.5,34.8767979 C52.5,38.3496727 49.4631259,41.3884381 45.9924126,41.3884381 C42.5216993,41.3884381 39.4848251,38.3496727 39.4848251,34.8767979 L39.4848251,26.1946109" id="Shape"></path>
+        </g>
+    </g>
+</svg>

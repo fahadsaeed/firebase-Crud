@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+
+# dist folder
+/dist
+
+# src client
+/src/client
+
+# package-lock
+package-lock.json
+config.js
